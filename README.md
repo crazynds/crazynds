@@ -26,14 +26,14 @@ Sempre busco facilitar minhas tarefas nem que seja preciso desenvolver outro sof
 - ⚡ Fato interessante: Gosto de programar em linguages desafiadoras no meu tempo livre. 
 
 
-## **Habilidades:**  
+## **Conhecimento:**  
 
 - ### Linguagens
 
-![PHP](https://img.shields.io/badge/-PHP-82898F?style=flat-square&logo=php&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=ffffff)
 ![C/C++](http://img.shields.io/badge/-C/C++-FFA420?style=flat-square&logo=c&logoColor=ffffff)
 ![NASM](http://img.shields.io/badge/-NASM-1E5945?style=flat-square&logo=assembly&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-D0A384?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -41,13 +41,14 @@ Sempre busco facilitar minhas tarefas nem que seja preciso desenvolver outro sof
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-Sql-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-EEC900?style=flat-square&logo=Python&logoColor=ffffff)
 
 - ### Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Laravel](https://img.shields.io/badge/-Laravel-606E8C?style=flat-square&logo=php&logoColor=ffffff)
 ![Symfony](https://img.shields.io/badge/-Symfony-4C9141?style=flat-square&logo=php&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-Vue-6D3F5B?style=flat-square&logo=javascript&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-2D572C?style=flat-square&logo=flutter&logoColor=ffffff)
 
 
@@ -96,10 +97,10 @@ Sempre busco facilitar minhas tarefas nem que seja preciso desenvolver outro sof
 
 - ### Languages
 
-![PHP](https://img.shields.io/badge/-PHP-82898F?style=flat-square&logo=php&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=ffffff)
 ![C/C++](http://img.shields.io/badge/-C/C++-FFA420?style=flat-square&logo=c&logoColor=ffffff)
 ![NASM](http://img.shields.io/badge/-NASM-1E5945?style=flat-square&logo=assembly&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-D0A384?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -107,13 +108,14 @@ Sempre busco facilitar minhas tarefas nem que seja preciso desenvolver outro sof
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-Sql-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-EEC900?style=flat-square&logo=Python&logoColor=ffffff)
 
 - ### Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Laravel](https://img.shields.io/badge/-Laravel-606E8C?style=flat-square&logo=php&logoColor=ffffff)
 ![Symfony](https://img.shields.io/badge/-Symfony-4C9141?style=flat-square&logo=php&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-Vue-6D3F5B?style=flat-square&logo=javascript&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-2D572C?style=flat-square&logo=flutter&logoColor=ffffff)
 
 
