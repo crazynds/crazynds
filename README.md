@@ -1,6 +1,7 @@
 # Crazynds 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-henrique-b-044aba11a/)](https://www.linkedin.com/in/luiz-henrique-b-044aba11a/)
 [![Twitter Badge](https://img.shields.io/badge/-@Crazy_nds-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Crazy_nds)](https://twitter.com/Crazy_nds)
+[![Instagram Badge](https://img.shields.io/badge/-@LhLago-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=1owgvdpv6220f&utm_content=48o322o)](https://www.instagram.com/invites/contact/?i=1owgvdpv6220f&utm_content=48o322o)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lhlagonds@gmail.com)](mailto:lhlagonds@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-F75E25?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC-5gme9-GSPvCRQjXOAfUBw)](https://www.youtube.com/channel/UC-5gme9-GSPvCRQjXOAfUBw)
 [![Website Badge](https://img.shields.io/badge/-LuizHenrique.site-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://luizhenrique.nextline.com.br)](https://jessicalim.me)
