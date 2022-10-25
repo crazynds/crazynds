@@ -10,21 +10,16 @@
 <details>
   <summary>Pt-BR <img width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg"></summary>
   
-### Introdução
-
-Sou muito currioso, por isso tenho grande interesse em enteder o funcionamento das coisas e acabo sempre me aprofundando nas áreas que começo a estudar.
-Sempre busco facilitar minhas tarefas nem que seja preciso desenvolver outro software para isso.
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-## Sou estudante de Ciência da Computação em busca de novas aventuras 😅
+## Sou estudante de Ciência da Computação em busca de desbravar novas tecnologias 😅
 
 - 👨‍💻 Atualmente estou trabalhando no desenvolvimento web. 🖥️
-- 📚 Estou aprendendo a desenvolver aplicativos utilizando flutter.
-- 💪🏼 Meu objetivo é desenvolver softwares que possam ser utilizado na comunidade academica com as tecnologias que aprendi.
-- ⚡ Fato interessante: Gosto de programar em linguages desafiadoras no meu tempo livre. 
+- 📚 Sou ex maratonista de programação, mais ainda gosto de me desafiar com desafios de programção.
+- 💪🏼 No meu tempo livre desenvolvo softwares de código aberto para disponibilizar para a comunidade com as tecnologias que aprendi.
+- ⚡ Fato interessante: Minha linguagem favorita é NASM por não ter o reconhecimento que merece. 
 
 
 ## **Conhecimento:**  
@@ -61,6 +56,7 @@ Sempre busco facilitar minhas tarefas nem que seja preciso desenvolver outro sof
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-CF3476?style=flat-square&logo=php&logoColor=ffffff)
 ![Postman](http://img.shields.io/badge/-Postman-F3DA0B?style=flat-square&logo=postman&logoColor=000000&labelColor=%23F7DF1C)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-6D3F5B?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Manjaro](http://img.shields.io/badge/-Manjaro-62a0d7?style=flat-square&logo=manjaro&logoColor=ffffff)
 
 
 ## **Estatísticas**
