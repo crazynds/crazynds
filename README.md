@@ -45,37 +45,77 @@
 
 ### Programming languages:
 
-![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=ffffff)
-![C/C++](http://img.shields.io/badge/-C/C++-FFA420?style=flat-square&logo=c&logoColor=ffffff)
-![NASM](http://img.shields.io/badge/-NASM-1E5945?style=flat-square&logo=assembly&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-D0A384?style=flat-square&logo=java&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-Sql-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-EEC900?style=flat-square&logo=Python&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-DfDfDf?style=flat-square&logo=php&logoColor=7377AD)
+![Python](https://img.shields.io/badge/-Python-DfDfDf?style=flat-square&logo=Python&logoColor=F5D036)
+![C/C++](http://img.shields.io/badge/-C/C++-DfDfDf?style=flat-square&logo=c&logoColor=00427E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-DfDfDf?style=flat-square&logo=javascript&logoColor=000000)
 
-### Frameworks:
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Laravel](https://img.shields.io/badge/-Laravel-606E8C?style=flat-square&logo=php&logoColor=ffffff)
-![Symfony](https://img.shields.io/badge/-Symfony-4C9141?style=flat-square&logo=php&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=javascript&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/-Flutter-2D572C?style=flat-square&logo=flutter&logoColor=ffffff)
+![Typescript](http://img.shields.io/badge/-Typescript-DfDfDf?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](http://img.shields.io/badge/-Java-DfDfDf?style=flat-square&logo=openjdk&logoColor=1E1E1E)
+![SQL](https://img.shields.io/badge/-Sql-DfDfDf?style=flat-square&logo=microsoft-sql-server&logoColor=4479A1)
+![NASM](http://img.shields.io/badge/-NASM-DfDfDf?style=flat-square&logo=nasm&logoColor=ffffff)
+
+![HTML5](https://img.shields.io/badge/-HTML5-DfDfDf?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-DfDfDf?style=flat-square&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-DfDfDf?style=flat-square&logo=sass&logoColor=CC6699)
+![Markdown](https://img.shields.io/badge/-Markdown-DfDfDf?style=flat-square&logo=markdown&logoColor=000000)
+
+
+### Technologies:
+
+
+![Laravel](https://img.shields.io/badge/-Laravel-DfDfDf?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Symfony](https://img.shields.io/badge/-Symfony-DfDfDf?style=flat-square&logo=symfony&logoColor=101010)
+![AdonisJS](https://img.shields.io/badge/-AdonisJS-DfDfDf?style=flat-square&logo=AdonisJS&logoColor=5A45FF)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-DfDfDf?style=flat-square&logo=Bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-DfDfDf?style=flat-square&logo=jQuery&logoColor=0769AD)
+![Vue](https://img.shields.io/badge/-Vue-DfDfDf?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Vuetify](https://img.shields.io/badge/-Vuetify-DfDfDf?style=flat-square&logo=Vuetify&logoColor=1867C0)
+![Material UI](https://img.shields.io/badge/-MaterialUI-DfDfDf?style=flat-square&logo=MUI&logoColor=007FFF)
+![Flutter](https://img.shields.io/badge/-Flutter-DfDfDf?style=flat-square&logo=flutter&logoColor=95E2F9)
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-DfDfDf?style=flat-square&logo=Node.js&logoColor=339933)
+![Arduino](https://img.shields.io/badge/-Arduino-DfDfDf?style=flat-square&logo=Arduino&logoColor=00979D)
+
+
+### Server Infrastructure:
+
+![Docker](https://img.shields.io/badge/-Docker-DfDfDf?style=flat-square&logo=docker&logoColor=2496ED)
+![Apache](https://img.shields.io/badge/-Apache-DfDfDf?style=flat-square&logo=Apache&logoColor=D22128)
+![Nginx](https://img.shields.io/badge/-Nginx-DfDfDf?style=flat-square&logo=Nginx&logoColor=009639)
+![Redis](https://img.shields.io/badge/-Redis-DfDfDf?style=flat-square&logo=Redis&logoColor=DC382D)
+
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-DfDfDf?style=flat-square&logo=MongoDB&logoColor=47A248)
+![MySql](https://img.shields.io/badge/-MySQL-DfDfDf?style=flat-square&logo=MySQL&logoColor=4479A1)
+![MariaDB](https://img.shields.io/badge/-MariaDB-DfDfDf?style=flat-square&logo=MariaDB&logoColor=003545)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-DfDfDf?style=flat-square&logo=PostgreSQL&logoColor=4169E1)
+
+
+![Grafana](https://img.shields.io/badge/-Grafana-DfDfDf?style=flat-square&logo=Grafana&logoColor=F46800)
+![Prometheus](https://img.shields.io/badge/-Prometheus-DfDfDf?style=flat-square&logo=Prometheus&logoColor=E6522C)
+![Zabbix](https://img.shields.io/badge/-Zabbix-DfDfDf?style=flat-square&logo=Zabbix&logoColor=D40000)
 
 
 ### Development Tools:
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-CF3476?style=flat-square&logo=php&logoColor=ffffff)
-![Postman](http://img.shields.io/badge/-Postman-F3DA0B?style=flat-square&logo=postman&logoColor=000000&labelColor=%23F7DF1C)
-![Ubuntu](http://img.shields.io/badge/-Ubuntu-6D3F5B?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Manjaro](http://img.shields.io/badge/-Manjaro-62a0d7?style=flat-square&logo=manjaro&logoColor=ffffff)
+![Bash](http://img.shields.io/badge/-Bash-DfDfDf?style=flat-square&logo=GNUBash&logoColor=282F36)
+![Git](https://img.shields.io/badge/-Git-DfDfDf?style=flat-square&logo=git&logoColor=E84D31)
+
+
+![Linux](http://img.shields.io/badge/-Linux-DfDfDf?style=flat-square&logo=Linux&logoColor=000000)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-DfDfDf?style=flat-square&logo=ubuntu&logoColor=D74615)
+![Manjaro](http://img.shields.io/badge/-Manjaro-DfDfDf?style=flat-square&logo=manjaro&logoColor=55A347)
+
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-DfDfDf?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-DfDfDf?style=flat-square&logo=eclipse&logoColor=2C2255)
+![PHPStorm](http://img.shields.io/badge/-PHPStorm-DfDfDf?style=flat-square&logo=PhpStorm&logoColor=000000)
+
+
+![Postman](http://img.shields.io/badge/-Postman-DfDfDf?style=flat-square&logo=postman&logoColor=F56933)
 
 ## **Statistics**
 
