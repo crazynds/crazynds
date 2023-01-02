@@ -41,7 +41,7 @@
   
 </details>
 
-## **Skils**
+## **Skills**
 
 ### Programming languages:
 
