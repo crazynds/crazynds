@@ -121,8 +121,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crazynds&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazynds&hide=html&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/crazynds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazynds&theme=tokyonight&hide_langs_below=1&hide=jupyter%20notebook&langs_count=7&layout=compact" />
 </a>
