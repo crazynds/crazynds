@@ -123,11 +123,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crazynds&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://github.com/crazynds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazynds&theme=tokyonight&hide_langs_below=1&hide=jupyter%20notebook&langs_count=7&layout=compact" />
+  <img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=crazynds&theme=tokyonight&hide_langs_below=1&hide=jupyter%20notebook&langs_count=7&layout=compact" />
 </a>
 
 <a href="https://github.com/crazynds">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=crazynds&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Crazynds github stats"/>
+ <img align="center" src="https://readme-stats.clckblog.space/api?username=crazynds&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Crazynds github stats"/>
 </a>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Crazynds"/>
