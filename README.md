@@ -41,7 +41,7 @@
   
 </details>
 
-## **Skill Set**
+## **Experience with**
 
 ### Programming languages:
 
@@ -52,6 +52,7 @@
 
 
 ![Typescript](http://img.shields.io/badge/-Typescript-DfDfDf?style=flat-square&logo=typescript&logoColor=3178C6)
+![Dart](http://img.shields.io/badge/-Dart-DfDfDf?style=flat-square&logo=Dart&logoColor=2BB1EE)
 ![Java](http://img.shields.io/badge/-Java-DfDfDf?style=flat-square&logo=openjdk&logoColor=1E1E1E)
 ![SQL](https://img.shields.io/badge/-Sql-DfDfDf?style=flat-square&logo=microsoft-sql-server&logoColor=4479A1)
 ![NASM](http://img.shields.io/badge/-NASM-DfDfDf?style=flat-square&logo=nasm&logoColor=ffffff)
