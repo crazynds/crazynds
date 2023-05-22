@@ -130,8 +130,6 @@
  <img align="center" src="https://readme-stats.clckblog.space/api?username=crazynds&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Crazynds github stats"/>
 </a>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Crazynds"/>
-
 ![Visitors](https://komarev.com/ghpvc/?username=crazynds&color=006bed)
-![GitHub Follow](https://img.shields.io/github/followers/crazynds?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/crazynds)
+[![GitHub Follow](https://img.shields.io/github/followers/crazynds?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/crazynds)
 
