@@ -132,6 +132,6 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Crazynds"/>
 
-![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=crazynds&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)
+![Visitors](https://komarev.com/ghpvc/?username=crazynds&color=006bed)
 [![GitHub Follow](https://img.shields.io/github/followers/crazynds?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/crazynds)
 
